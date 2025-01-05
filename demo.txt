@@ -15,8 +15,10 @@ this is to test the copy from clone -- gonuguntachaitanya
 
 /*3rd*/
 this is first change from gonuguntac 
-after merging the code from the fork gonuguntachaitanya
-
+after merging the code from the fork gonuguntac
 
 /*4th Change */
 Change from clone copy */
+=======
+/*6th*/
+c6 from gonuguntac afer the resolved conflict from gc but going in parallel
