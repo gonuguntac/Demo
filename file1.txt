@@ -2,3 +2,6 @@ This is the new file
 
 Change1
 /*Change from main branch gonuguntac*/
+
+Change2
+/*Change from non-main branch gonuguntac*/
