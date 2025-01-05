@@ -4,12 +4,6 @@ this is my first demo on git
 /*1st*/
 this is to test the first incr code -- gonuguntac
 
-this is to test the copy from clone -- gonuguntachaitanya 
-
-/*Change5*/
-
-Change coming from thread gonuguntachaitanya 
-after clone without having interim changes
 /*2nd*/
 this is to test the copy from clone -- gonuguntachaitanya 
 
@@ -20,5 +14,13 @@ after merging the code from the fork gonuguntachaitanya
 
 /*4th Change */
 Change from clone copy */
+
+
+/*Change5*/
+
+Change coming from thread gonuguntachaitanya 
+after clone without having interim changes
+
 /*6th*/
 c6 from gonuguntac afer the resolved conflict from gc but going in parallel
+after merging the code from the fork gonuguntac
