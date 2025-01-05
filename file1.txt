@@ -1,1 +1,11 @@
+<<<<<<< Updated upstream
 This is the new file 
+=======
+This is the new file 
+
+/*Change1*/
+Change from gonuguntac via main fork
+
+/*Change2*/
+Change from gonuguntac via non- main fork
+>>>>>>> Stashed changes
