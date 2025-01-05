@@ -1,6 +1,7 @@
 hi 
 this is my first demo on git 
 
+/*1st*/
 this is to test the first incr code -- gonuguntac
 
 this is to test the copy from clone -- gonuguntachaitanya 
@@ -9,3 +10,13 @@ this is to test the copy from clone -- gonuguntachaitanya
 
 Change coming from thread gonuguntachaitanya 
 after clone without having interim changes
+/*2nd*/
+this is to test the copy from clone -- gonuguntachaitanya 
+
+/*3rd*/
+this is first change from gonuguntac 
+after merging the code from the fork gonuguntachaitanya
+
+
+/*4th Change */
+Change from clone copy */
